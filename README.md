@@ -10,7 +10,7 @@ Install project dependencies
 npm i
 ```
 
-Run program (main.ts)
+Run program (index.ts)
 
 ```
 npm run start
